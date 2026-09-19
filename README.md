@@ -170,18 +170,18 @@ sql-food-delivery-project/
 ├── README.md
 │
 ├── queries/
-│   ├── late_delivery_orders.sql
-│   ├── average_delivery_time_by_state.sql
-│   ├── repeat_purchase_6_months.sql
-│   ├── revenue_by_product_category.sql
-│   └── highest_avg_review_seller.sql
+│   ├── 1_avg_delivery_time.sql
+│   ├── 2_delivered_later.sql
+│   ├── 3_repeat_purchase_rate.sql
+│   ├── 4_categories_gen_revenue.sql
+│   └── 5_highest_avg_review.sql
 │
 └── screenshots/
-    ├── late_delivery_orders.png
-    ├── average_delivery_time_by_state.png
-    ├── repeat_purchase_6_months.png
-    ├── revenue_by_product_category.png
-    └── highest_avg_review_seller.png
+    ├── 1_avg_delivery_time.png
+    ├── 2_delivered_later.png
+    ├── 3_repeat_purchase_rate.png
+    ├── 4_categories_gen_revenue.png
+    └── 5_highest_avg_review.png
 ```
 
 ---
